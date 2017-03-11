@@ -1,0 +1,9 @@
+Compliation:
+	$ make
+
+Manual:
+	To run the server
+	$ ./stringServer
+	Then set the SERVER_ADDRESS and SERVER_PORT as displayed by stringServer
+	Then run the client
+	$ ./stringClient
